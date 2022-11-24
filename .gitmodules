@@ -1,0 +1,4 @@
+[submodule "cfs"]
+	path = cfs
+	url = git@github.com:dong-zh/cFS.git
+	branch = fpga-comm
